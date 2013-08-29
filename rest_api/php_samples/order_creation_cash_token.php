@@ -30,6 +30,7 @@ $order_details['clientOrderID'] = '7723571A';
 $order_details['deliveryDate'] = '20-06-2013';
 $order_details['InvoiceUrl'] = 'www.example.com/example.html';
 $order_details['paymentMode'] = 'cash';
+$order_details['orderAmount'] = 2100;
 
 $order_feed['customerDetails'] = $customer_details;
 $order_feed['orderDetails'] = $order_details;
